@@ -1,4 +1,4 @@
-# Tugas-Praktikum-9-Pert.13-Relasi-Class_Risky-Parmonangan_TI-21-C2-312110244
+# Tugas-Praktikum-9-Pert.13-GUI_Risky-Parmonangan_TI-21-C2-312110244
 
 OUTPUT : 
 ![Screenshot (196)](https://user-images.githubusercontent.com/116358507/211153403-0694b039-cfc4-4774-9040-df2c88579168.png)
